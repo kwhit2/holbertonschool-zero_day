@@ -1,0 +1,1 @@
+*This project is all about emacs. The commands that are used and overall functionality with the program*
